@@ -1,0 +1,54 @@
+{
+  "clientes": [
+    {
+      "id": "C001",
+      "nombre": "TechCorp SA",
+      "contacto": "María González",
+      "email": "maria@techcorp.com",
+      "telefono": "555-0101",
+      "ciudad": "Ciudad de México",
+      "tipo": "Corporativo",
+      "fecha_registro": "2023-01-15"
+    },
+    {
+      "id": "C002", 
+      "nombre": "Distribuidora López",
+      "contacto": "Carlos López",
+      "email": "carlos@distlopez.com",
+      "telefono": "555-0102",
+      "ciudad": "Guadalajara",
+      "tipo": "Mayorista",
+      "fecha_registro": "2023-02-20"
+    },
+    {
+      "id": "C003",
+      "nombre": "Retail Solutions",
+      "contacto": "Ana Torres",
+      "email": "ana@retail.com",
+      "telefono": "555-0103", 
+      "ciudad": "Monterrey",
+      "tipo": "Retail",
+      "fecha_registro": "2023-03-10"
+    },
+    {
+      "id": "C004",
+      "nombre": "Innovación Digital",
+      "contacto": "Luis Pérez",
+      "email": "luis@innovacion.com",
+      "telefono": "555-0104",
+      "ciudad": "Tijuana",
+      "tipo": "Corporativo",
+      "fecha_registro": "2023-04-05"
+    },
+    {
+      "id": "C005",
+      "nombre": "Comercial Hernández",
+      "contacto": "Rosa Hernández",
+      "email": "rosa@comercial.com", 
+      "telefono": "555-0105",
+      "ciudad": "Puebla",
+      "tipo": "Mayorista",
+      "fecha_registro": "2023-05-12"
+    }
+  ]
+}

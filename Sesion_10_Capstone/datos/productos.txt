@@ -1,0 +1,50 @@
+Catálogo de Productos - TechData Solutions
+========================================
+
+ID: P001
+Nombre: Laptop Profesional
+Categoría: Electrónicos
+Precio: $15,000.00
+Descripción: Laptop de alto rendimiento para profesionales
+Proveedor: TechSupply Inc.
+Stock: 25 unidades
+
+---
+
+ID: P002  
+Nombre: Mouse Inalámbrico
+Categoría: Accesorios
+Precio: $850.00
+Descripción: Mouse ergonómico con conectividad Bluetooth
+Proveedor: AccessTech Ltd.
+Stock: 150 unidades
+
+---
+
+ID: P003
+Nombre: Monitor 24"
+Categoría: Electrónicos  
+Precio: $2,200.00
+Descripción: Monitor Full HD con tecnología IPS
+Proveedor: DisplayCorp
+Stock: 40 unidades
+
+---
+
+ID: P004
+Nombre: Teclado Mecánico
+Categoría: Accesorios
+Precio: $650.00  
+Descripción: Teclado mecánico retroiluminado
+Proveedor: KeyTech Solutions
+Stock: 80 unidades
+
+---
+
+ID: P005
+Nombre: Tablet Profesional
+Categoría: Electrónicos
+Precio: $3,200.00
+Descripción: Tablet con stylus para diseño profesional
+Proveedor: TabletPro Inc.
+Stock: 15 unidades

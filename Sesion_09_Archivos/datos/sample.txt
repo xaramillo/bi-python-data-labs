@@ -1,0 +1,16 @@
+Este es un archivo de ejemplo para practicar lectura de archivos de texto en Python.
+
+Datos de empleados:
+- Juan Pérez: Desarrollador
+- María García: Analista de Datos  
+- Carlos López: Gerente de Proyecto
+- Ana Torres: Diseñadora UX
+
+Información adicional:
+El procesamiento de archivos de texto es fundamental para el análisis de datos.
+Python ofrece herramientas poderosas para trabajar con diferentes formatos de archivo.
+
+Notas:
+- Siempre manejar errores al leer archivos
+- Verificar la codificación del archivo
+- Cerrar archivos apropiadamente

@@ -1,0 +1,29 @@
+{
+  "configuracion_sistema": {
+    "nombre_aplicacion": "Sistema de Análisis de Datos",
+    "version": "1.0.0",
+    "desarrollador": "Equipo Data Analytics"
+  },
+  "base_de_datos": {
+    "host": "localhost",
+    "puerto": 5432,
+    "nombre_bd": "empresa_datos",
+    "usuario": "analista"
+  },
+  "parametros_analisis": {
+    "formato_fecha": "YYYY-MM-DD",
+    "moneda": "MXN",
+    "precision_decimales": 2,
+    "idioma": "es"
+  },
+  "limites_sistema": {
+    "max_registros": 100000,
+    "timeout_consulta": 30,
+    "tamaño_max_archivo": "50MB"
+  },
+  "notificaciones": {
+    "email_admin": "admin@empresa.com",
+    "reportes_automaticos": true,
+    "frecuencia_backup": "diario"
+  }
+}
